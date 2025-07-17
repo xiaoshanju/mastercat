@@ -7,7 +7,7 @@ def index():
     """
     渲染前端页面
     """
-    print("llp3")
+    print("llp4")
     return render_template('index.html')
 
 """
